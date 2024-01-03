@@ -1,0 +1,4 @@
+XAMPP es la aplicacion de servidor local con la que la aplicacion funciona.
+Al instalarla, deben estar activados los servicios de Apache y MySQL.
+La carpeta del proyecto debe de estar en el directorio "C:/xampp/htdocs/"
+Por ultimo importamos la base de datos en el navegador, usando la URL "http://localhost/phpmyadmin"
